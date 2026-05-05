@@ -1,6 +1,8 @@
 # Terminal Rain Nix Flake
 - Nix flake that makes the [terminal-rain-lightning by rmaake1](https://github.com/rmaake1/terminal-rain-lightning) available declaratively for Nix systems. 
 
+**NOTE**: I'm not usually a vibe coder, but I figured I would stick with the spirit of the original creation, and I was impatient. I just wanted to have this added to my configuration declaratively. So, thank you rmaake1 & Claude. 
+
 # Installation
 - Add as an input to your flake: 
 ```nix
